@@ -1,0 +1,50 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# dotenv environment variables
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Puppeteer Chromium cache (optional)
+.chromium/
+.cache/
+
+# VSCode
+.vscode/
+
+# Coverage reports
+coverage/
+
+# Compiled files
+dist/
+build/
+
+# Debug output
+*.tgz
+
+# Optional npm cache directory
+.npm/
+
+# IDEs
+.idea/
+*.sw?
+
+
+# .gitignore
+
+# Ignore node_modules
+node_modules/
+
+# Optional: also ignore temp cache folders
+.cache/
+.DS_Store
